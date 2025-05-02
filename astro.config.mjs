@@ -10,6 +10,12 @@ export default defineConfig({
     starlight({
       title: "Outstanding Engineer",
       favicon: "/favicon.png",
+      locales: {
+        root: {
+          label: "日本語",
+          lang: "ja",
+        },
+      },
       social: [
         {
           icon: "github",
