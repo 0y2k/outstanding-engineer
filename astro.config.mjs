@@ -6,7 +6,8 @@ import { defineConfig } from "astro/config";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "My Docs",
+      title: "Outstanding Engineer",
+      favicon: "/favicon.png",
       social: [
         {
           icon: "github",
