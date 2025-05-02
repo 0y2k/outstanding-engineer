@@ -17,15 +17,12 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Guides",
+          label: "Pages",
           items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
+            { label: "英語", slug: "1-english" },
+            { label: "数学", slug: "2-mathematics" },
+            { label: "プログラミング", slug: "3-programming" },
           ],
-        },
-        {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
         },
       ],
     }),
