@@ -1,4 +1,6 @@
 # https://www.robotstxt.org/
 
+Sitemap: https://0y2k.github.io/outstanding-engineer/sitemap-index.xml
+
 User-agent: *
 Disallow: /google0b68d7cae75f1b53.html
