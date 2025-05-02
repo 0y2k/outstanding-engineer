@@ -1,0 +1,12 @@
+{
+  "short_name": "Outstanding Engineer",
+  "name": "Outstanding Engineer",
+  "icons": [{
+    "src": "favicon.png",
+    "type": "image/png",
+    "sizes": "420x420"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#f0f0f0",
+  "theme_color": "#ac55d8"
+}
