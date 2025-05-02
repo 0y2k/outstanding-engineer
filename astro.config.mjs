@@ -4,6 +4,8 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://0y2k.github.io",
+  base: "/outstanding-engineer",
   integrations: [
     starlight({
       title: "Outstanding Engineer",
